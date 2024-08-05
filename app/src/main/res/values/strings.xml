@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Frolics</string>
+    <string name="frolics">Frolics</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="todo">TODO</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="not_registered_signUp_here">NOT REGISTERED? SIGNUP HERE</string>
+    <string name="remember_me">Remember me</string>
+    <string name="email_address">Enter Email Address</string>
+    <string name="register">Register</string>
+    <string name="reenter_password">Re-enter Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="welcome">Welcome User</string>
+    <string name="textView">TextView</string>
+    <string name="sample_youtube_video">Sample Youtube Video</string>
+    <string name="video_lectures">Video Lectures</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="forgot_info">We will send you an E-mail for re-setting the password if the account already exists.</string>
+    <string name="send_email">Send Email</string>
+    <string name="enter_registered_email">Enter Registered Email</string>
+    <string name="title">Title</string>
+    <string name="start_msg">Brought to you by</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="forgot_password_login">FORGOT PASSWORD?</string>
+</resources>
